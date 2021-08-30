@@ -5,26 +5,26 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": "Davis Victor e Matheus Ricardo"
+    "text": "Davis Victor \u0026 Matheus Santos"
   },
   "text": {
     "more": "",
-    "intro": "Network analysis project of Wikipedia Pages, starting from Wildlife of Brazil page",
-    "title": "Wildlife of Brazil"
+    "intro": "Network analysis project of Wikipedia Pages starting from Wildlife of Brazil page",
+    "title": "Network Citation of Wikipedia Pages"
   },
   "legend": {
-    "edgeLabel": "Citation",
+    "edgeLabel": " Citation",
     "colorLabel": "Community",
-    "nodeLabel": "Wikipedia Page"
+    "nodeLabel": " Wikipedia Page"
   },
   "features": {
     "search": true,
     "groupSelectorAttribute": "Modularity Class",
-    "hoverBehavior": "dim"
+    "hoverBehavior": "default"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
-    "imageAttribute": "Grau de entrada"
+    "imageAttribute": false
   },
   "sigma": {
     "drawingProperties": {
